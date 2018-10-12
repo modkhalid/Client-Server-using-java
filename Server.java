@@ -1,7 +1,7 @@
     import java.io.*;  
     import java.net.*; 
     import java.util.*; 
-    public class teach {  
+    public class Server {  
     public static void main(String[] args){  
     try{  
     ServerSocket ss=new ServerSocket(6666);  
